@@ -1,0 +1,1 @@
+console.log("JS from the external.js file code.")
